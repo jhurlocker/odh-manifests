@@ -155,7 +155,7 @@ spec:
     - name: manifests
       uri: https://github.com/jhurlocker/odh-manifests/archive/refs/tags/v1.1.0.tar.gz
       #uri: https://github.com/masoodfaisal/odh-manifests/tarball/master
-  version: master
+  version: v1.1.0
 
 
 
