@@ -6,7 +6,7 @@ resources:
 - minimal-notebook-buildconfig.yaml
 - generic-data-science-notebook-buildconfig.yaml
 - scipy-notebook-buildconfig.yaml
-- pytorch-notebook-buildconfig.yaml
+#- pytorch-notebook-buildconfig.yaml
 - tensorflow-notebook-buildconfig.yaml
 - spark-minimal-notebook-buildconfig.yaml
 - spark-scipy-notebook-buildconfig.yaml
