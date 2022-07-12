@@ -11,6 +11,7 @@ resources:
 - elyra-notebook-imagestream.yaml
 - elyra-notebook-spark3-imagestream.yaml
 - customnotebook-imagestream.yaml
+- customnotebook-imagestreamJH.yaml
 - pytorch-notebook-imagestream.yaml
 
 commonLabels:
