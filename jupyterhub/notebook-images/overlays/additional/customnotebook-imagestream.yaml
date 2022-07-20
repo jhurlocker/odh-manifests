@@ -4,7 +4,7 @@ metadata:
   labels:
     opendatahub.io/notebook-image: "true"
   annotations:
-    opendatahub.io/notebook-image-name: "SciKit v1.10 - Elyra Notebook Image"
+    opendatahub.io/notebook-image-name: "CUSTOM NOTEBOOK - SciKit v1.10 - Elyra Notebook Image"
     opendatahub.io/notebook-image-desc: "Jupyter notebook image with Scikit"
   name: elyra-scikit-customnotebook
 spec:
